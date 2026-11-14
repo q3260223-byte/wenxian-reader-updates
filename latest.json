@@ -1,7 +1,7 @@
 {
- "version": "1.0.11",
- "notes": "修复选中文字后浮层按钮被挤成竖排",
- "bundle": "wenxian-1.0.11.bundle",
- "sig": "5RBSvs5y0IvGdAilZvu6xytFThoILkMaLFWCSMkK7ODWL2ueEdxycXYWPZamnnCwtAVlyPOOXRrWJ69KxKicDQ==",
+ "version": "1.0.12",
+ "notes": "新增 AI 助手（依据本文回答、联网搜索）；连不上接口时自动重新检测代理并重试",
+ "bundle": "wenxian-1.0.12.bundle",
+ "sig": "Y6cyGySJ44zHrqqDefOSqgU7/pr8VGzJl/wOOXN4OxhCSSJDOf5brIZAQfI95OmtgOvHvI6wB6/Uz+AToczlDQ==",
  "date": "2026-11-14"
 }
