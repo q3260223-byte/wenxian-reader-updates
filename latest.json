@@ -1,7 +1,7 @@
 {
- "version": "1.0.17",
- "notes": "AI 助手里可以把问题和上下文一键带到 ChatGPT 继续问",
- "bundle": "wenxian-1.0.17.bundle",
- "sig": "6qJajHiqtUmXeNP0AQkkUpkLy2ulgBRRSzofubl0I7WYfb9Ib1T3WZ6ZkDOed1Bygzj/m3vPhmAGRW5M86GjAA==",
+ "version": "1.0.18",
+ "notes": "新增联网找文献：搜索开放获取的 PDF，一键下载并打开",
+ "bundle": "wenxian-1.0.18.bundle",
+ "sig": "mFfYC7hpM4QcfF6hTD+/b5YUQKzU2l1qKfCQ40dnlKlgtGU8qp8O/JEYZHr/TTmsj7nz/ChT4RPuCjoTQSFrBg==",
  "date": "2026-11-14"
 }
