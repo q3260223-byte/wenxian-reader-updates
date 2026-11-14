@@ -1,7 +1,7 @@
 {
- "version": "1.0.12",
- "notes": "新增 AI 助手（依据本文回答、联网搜索）；连不上接口时自动重新检测代理并重试",
- "bundle": "wenxian-1.0.12.bundle",
- "sig": "Y6cyGySJ44zHrqqDefOSqgU7/pr8VGzJl/wOOXN4OxhCSSJDOf5brIZAQfI95OmtgOvHvI6wB6/Uz+AToczlDQ==",
+ "version": "1.0.13",
+ "notes": "“检查更新”移到顶栏，不用再进设置",
+ "bundle": "wenxian-1.0.13.bundle",
+ "sig": "iyltA/hwSZ43cJdoSrhfqIi7a6JXTEWYIQ2PHXRGV05GIe0L1KT3RM/AW/Ab10XM2JD0/RmH3aHIotRSoCUhCA==",
  "date": "2026-11-14"
 }
