@@ -1,7 +1,7 @@
 {
- "version": "1.0.8",
- "notes": "翻译不再擅自改人名；扫描页翻译时附上原文图像",
- "bundle": "wenxian-1.0.8.bundle",
- "sig": "uk3umT8EhTQzF+rxx1/8Vz62SSs1GVDLylcXj8gw7WWHIaNj7l2RtIdLI3NJV9YTugNv7FqlRnehOFI7wz6mCQ==",
+ "version": "1.0.9",
+ "notes": "支持竖排书页的识别（本机或 AI）；修复页面偶尔叠印",
+ "bundle": "wenxian-1.0.9.bundle",
+ "sig": "tH9Q1EZfZAq8a0sazIRN9HFt4MUVunBqFRHbPIuKnB/YhEL4gMtBW69Jh5vMhvar9lM2AEj0ozUeQGAmDQtFCg==",
  "date": "2026-11-14"
 }
