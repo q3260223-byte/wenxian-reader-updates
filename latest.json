@@ -1,7 +1,7 @@
 {
- "version": "1.0.9",
- "notes": "支持竖排书页的识别（本机或 AI）；修复页面偶尔叠印",
- "bundle": "wenxian-1.0.9.bundle",
- "sig": "tH9Q1EZfZAq8a0sazIRN9HFt4MUVunBqFRHbPIuKnB/YhEL4gMtBW69Jh5vMhvar9lM2AEj0ozUeQGAmDQtFCg==",
+ "version": "1.0.10",
+ "notes": "更新下载更稳：自动在代理、直连、镜像之间切换；竖排识别",
+ "bundle": "wenxian-1.0.10.bundle",
+ "sig": "F6C6Lg5jx7iKhI553imJ2x4B0sXpBRWx/zi5NbkRxdB6ZRDppAcRgrXVAymvsBn+5wKzv06t1a/FCHHQc3MUAg==",
  "date": "2026-11-14"
 }
