@@ -1,7 +1,7 @@
 {
- "version": "1.0.16",
- "notes": "改用与浏览器相同的联网方式，跟随系统代理；修复经代理连不上 AI 接口",
- "bundle": "wenxian-1.0.16.bundle",
- "sig": "ZkxdKIiKir643DPS6WBmrsIpnGzwzt9+i09DUS8WNkGs2LmRQG6aoayUV2P+XZSKTmj6Jt4jxIsT8q0qh3JICQ==",
+ "version": "1.0.17",
+ "notes": "AI 助手里可以把问题和上下文一键带到 ChatGPT 继续问",
+ "bundle": "wenxian-1.0.17.bundle",
+ "sig": "6qJajHiqtUmXeNP0AQkkUpkLy2ulgBRRSzofubl0I7WYfb9Ib1T3WZ6ZkDOed1Bygzj/m3vPhmAGRW5M86GjAA==",
  "date": "2026-11-14"
 }
