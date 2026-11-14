@@ -1,7 +1,7 @@
 {
- "version": "1.0.1",
- "notes": "自动检测代理；AI 接口支持统一配置",
- "bundle": "wenxian-1.0.1.bundle",
- "sig": "SpClpBNw7fKnHt3nn6MuIhPR/QqBn9b/HooGL/+bFowBTv0c8tVAF+rlnTWqlHBjFWYRYUe0mf2EBpZbmjhsCQ==",
+ "version": "1.0.2",
+ "notes": "修复扫描页黑屏；改进中文分句、选中效果和聚焦模式",
+ "bundle": "wenxian-1.0.2.bundle",
+ "sig": "uDzxyVAUDIPVXRQ7VCS6btKMmxgATnC4C7m2YccKa1rRVvDLEwF0+8OLg0cW3yjUtGl/DwidWjzHwDlt07uuBA==",
  "date": "2026-11-14"
 }
