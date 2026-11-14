@@ -1,7 +1,7 @@
 {
- "version": "1.0.7",
- "notes": "新增下划线和文字批注",
- "bundle": "wenxian-1.0.7.bundle",
- "sig": "WhkUqbZw+ciRPFNpKn8jULMbWl6jn2bQ+PbcicwE55/IC+V4PA3F0ztGnaTmI9QrABSoabQrp2Tak6g3VGl8BQ==",
+ "version": "1.0.8",
+ "notes": "翻译不再擅自改人名；扫描页翻译时附上原文图像",
+ "bundle": "wenxian-1.0.8.bundle",
+ "sig": "uk3umT8EhTQzF+rxx1/8Vz62SSs1GVDLylcXj8gw7WWHIaNj7l2RtIdLI3NJV9YTugNv7FqlRnehOFI7wz6mCQ==",
  "date": "2026-11-14"
 }
