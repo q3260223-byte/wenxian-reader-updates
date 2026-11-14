@@ -1,7 +1,7 @@
 {
- "version": "1.0.0",
- "notes": "初始版本",
- "bundle": "wenxian-1.0.0.bundle",
- "sig": "6jbo7I6lEfkNVOl36ag2zhpU96pOZXJGWCecTv44s6iN49p2RkIFtIehUXXolXAPoHuazh/3isMQziy4oNoHBQ==",
+ "version": "1.0.1",
+ "notes": "自动检测代理；AI 接口支持统一配置",
+ "bundle": "wenxian-1.0.1.bundle",
+ "sig": "SpClpBNw7fKnHt3nn6MuIhPR/QqBn9b/HooGL/+bFowBTv0c8tVAF+rlnTWqlHBjFWYRYUe0mf2EBpZbmjhsCQ==",
  "date": "2026-11-14"
 }
