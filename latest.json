@@ -1,7 +1,7 @@
 {
- "version": "1.0.3",
- "notes": "右侧标签改为底部工具栏，点功能才展开侧栏；翻译改为点击后再翻",
- "bundle": "wenxian-1.0.3.bundle",
- "sig": "1hHHcxHvYOddy9jr0v+Scn6bvleIeOUoRrqngyZ2Iz8pP60WEOEGHCl1s55AIoOPMrVjhTbA01r4a1KyyKkHCA==",
+ "version": "1.0.4",
+ "notes": "修复界面被黑色区域盖住的问题；底部工具栏",
+ "bundle": "wenxian-1.0.4.bundle",
+ "sig": "mKYk00OEk1DS0y4f7am9f/X2UkWZ1QNRm6lFEhUrgwPGbbbNrrWa6KdQHH2J8AcOkACV9sPSwBcOhtzBSFUACQ==",
  "date": "2026-11-14"
 }
