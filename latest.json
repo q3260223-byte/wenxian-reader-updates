@@ -1,7 +1,7 @@
 {
- "version": "1.0.15",
- "notes": "网络诊断的结论更准确",
- "bundle": "wenxian-1.0.15.bundle",
- "sig": "t50sl7mOikGa6eWhlPZ43FU9kCn2HN3FyfbEfpk5aUH0wZCV38ynwmKYaiv0nLVx5mVL1bxlCBHOYibmxYclBQ==",
+ "version": "1.0.16",
+ "notes": "改用与浏览器相同的联网方式，跟随系统代理；修复经代理连不上 AI 接口",
+ "bundle": "wenxian-1.0.16.bundle",
+ "sig": "ZkxdKIiKir643DPS6WBmrsIpnGzwzt9+i09DUS8WNkGs2LmRQG6aoayUV2P+XZSKTmj6Jt4jxIsT8q0qh3JICQ==",
  "date": "2026-11-14"
 }
