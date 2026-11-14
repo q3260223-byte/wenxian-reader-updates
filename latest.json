@@ -1,7 +1,7 @@
 {
- "version": "1.0.10",
- "notes": "更新下载更稳：自动在代理、直连、镜像之间切换；竖排识别",
- "bundle": "wenxian-1.0.10.bundle",
- "sig": "F6C6Lg5jx7iKhI553imJ2x4B0sXpBRWx/zi5NbkRxdB6ZRDppAcRgrXVAymvsBn+5wKzv06t1a/FCHHQc3MUAg==",
+ "version": "1.0.11",
+ "notes": "修复选中文字后浮层按钮被挤成竖排",
+ "bundle": "wenxian-1.0.11.bundle",
+ "sig": "5RBSvs5y0IvGdAilZvu6xytFThoILkMaLFWCSMkK7ODWL2ueEdxycXYWPZamnnCwtAVlyPOOXRrWJ69KxKicDQ==",
  "date": "2026-11-14"
 }
