@@ -1,7 +1,7 @@
 {
- "version": "1.0.13",
- "notes": "“检查更新”移到顶栏，不用再进设置",
- "bundle": "wenxian-1.0.13.bundle",
- "sig": "iyltA/hwSZ43cJdoSrhfqIi7a6JXTEWYIQ2PHXRGV05GIe0L1KT3RM/AW/Ab10XM2JD0/RmH3aHIotRSoCUhCA==",
+ "version": "1.0.14",
+ "notes": "两档模型按任务自动切换；新增网络诊断",
+ "bundle": "wenxian-1.0.14.bundle",
+ "sig": "R1NzjmZPPiXLUph196Nib0BoIUYwyVSj1T0Ul5LqqsujTrdtu0e5Jza2wndkcH2pEt6+RwYKijODISdU9KShDQ==",
  "date": "2026-11-14"
 }
