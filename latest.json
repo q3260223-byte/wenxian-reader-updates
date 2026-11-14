@@ -1,7 +1,7 @@
 {
- "version": "1.0.4",
- "notes": "修复界面被黑色区域盖住的问题；底部工具栏",
- "bundle": "wenxian-1.0.4.bundle",
- "sig": "mKYk00OEk1DS0y4f7am9f/X2UkWZ1QNRm6lFEhUrgwPGbbbNrrWa6KdQHH2J8AcOkACV9sPSwBcOhtzBSFUACQ==",
+ "version": "1.0.5",
+ "notes": "新增四套配色：暖纸色、樱粉、豆沙绿、夜间",
+ "bundle": "wenxian-1.0.5.bundle",
+ "sig": "bC7g1kdQJhdqagh5gIdDhUqbq8pxzHmMCIDO1B4yiQbWE+FRBoxX+nNp8TqmfceAlO+db7MxoD5d3LlocZgqAA==",
  "date": "2026-11-14"
 }
