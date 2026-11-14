@@ -1,7 +1,7 @@
 {
- "version": "1.0.2",
- "notes": "修复扫描页黑屏；改进中文分句、选中效果和聚焦模式",
- "bundle": "wenxian-1.0.2.bundle",
- "sig": "uDzxyVAUDIPVXRQ7VCS6btKMmxgATnC4C7m2YccKa1rRVvDLEwF0+8OLg0cW3yjUtGl/DwidWjzHwDlt07uuBA==",
+ "version": "1.0.3",
+ "notes": "右侧标签改为底部工具栏，点功能才展开侧栏；翻译改为点击后再翻",
+ "bundle": "wenxian-1.0.3.bundle",
+ "sig": "1hHHcxHvYOddy9jr0v+Scn6bvleIeOUoRrqngyZ2Iz8pP60WEOEGHCl1s55AIoOPMrVjhTbA01r4a1KyyKkHCA==",
  "date": "2026-11-14"
 }
