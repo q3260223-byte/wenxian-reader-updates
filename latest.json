@@ -1,7 +1,7 @@
 {
- "version": "1.0.14",
- "notes": "两档模型按任务自动切换；新增网络诊断",
- "bundle": "wenxian-1.0.14.bundle",
- "sig": "R1NzjmZPPiXLUph196Nib0BoIUYwyVSj1T0Ul5LqqsujTrdtu0e5Jza2wndkcH2pEt6+RwYKijODISdU9KShDQ==",
+ "version": "1.0.15",
+ "notes": "网络诊断的结论更准确",
+ "bundle": "wenxian-1.0.15.bundle",
+ "sig": "t50sl7mOikGa6eWhlPZ43FU9kCn2HN3FyfbEfpk5aUH0wZCV38ynwmKYaiv0nLVx5mVL1bxlCBHOYibmxYclBQ==",
  "date": "2026-11-14"
 }
