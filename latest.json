@@ -1,7 +1,7 @@
 {
- "version": "1.0.6",
- "notes": "可以在 PDF 上做高亮并删除标注；更新机制更稳",
- "bundle": "wenxian-1.0.6.bundle",
- "sig": "dQB+G5eO/kXRyea+kDKeZAbJ0lrgfMa9M7cpn7dQSP4nrpoBcC3rrrjO0svesoWlXSIj4n+3BGjBjkicGjXzAw==",
+ "version": "1.0.7",
+ "notes": "新增下划线和文字批注",
+ "bundle": "wenxian-1.0.7.bundle",
+ "sig": "WhkUqbZw+ciRPFNpKn8jULMbWl6jn2bQ+PbcicwE55/IC+V4PA3F0ztGnaTmI9QrABSoabQrp2Tak6g3VGl8BQ==",
  "date": "2026-11-14"
 }
