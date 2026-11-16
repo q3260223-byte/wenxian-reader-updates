@@ -1,7 +1,7 @@
 {
- "version": "1.0.18",
- "notes": "新增联网找文献：搜索开放获取的 PDF，一键下载并打开",
- "bundle": "wenxian-1.0.18.bundle",
- "sig": "mFfYC7hpM4QcfF6hTD+/b5YUQKzU2l1qKfCQ40dnlKlgtGU8qp8O/JEYZHr/TTmsj7nz/ChT4RPuCjoTQSFrBg==",
- "date": "2026-11-14"
+ "version": "1.0.19",
+ "notes": "新增文献库：收藏文献、标签、笔记、正文检索、导出引用；联网找文献增加来源并合并重复结果",
+ "bundle": "wenxian-1.0.19.bundle",
+ "sig": "Fd2Ly+f78Z+EdAU52LzFOr0ZPpLm/ISuYC+l8Ni+tL6aDryS/mRdFJeN2Moxeg9S2Zh7CNiVQHcC9zFhxsHFAQ==",
+ "date": "2026-11-16"
 }
