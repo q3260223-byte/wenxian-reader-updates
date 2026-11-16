@@ -1,7 +1,7 @@
 {
- "version": "1.0.20",
- "notes": "联网找文献新增「AI 帮我找」：用一句话说想找什么，AI 换几种说法和语言去查，按相关程度排好并说明理由",
- "bundle": "wenxian-1.0.20.bundle",
- "sig": "hwth626qX+6TPZJdaBQHxwA0XX+UP8IVYCNQ052PWJ/e2SZTpFU0qgNEt/VYtFh3Y023gn8LGZHOTJDuPlMGBg==",
+ "version": "1.0.21",
+ "notes": "找文献：界面精简，AI 帮我找的结果更准；修复残缺 PDF 被当作已下载的问题",
+ "bundle": "wenxian-1.0.21.bundle",
+ "sig": "kSB0VMXhA82dJ2tpTPDA+q8jq07x3SJl89CWeZ4uaGEKYCPfU8NWf3MurbfATMQc3ydZZkrYP6dfD1LXc0pTDA==",
  "date": "2026-11-16"
 }
