@@ -1,7 +1,7 @@
 {
- "version": "1.0.21",
- "notes": "找文献：界面精简，AI 帮我找的结果更准；修复残缺 PDF 被当作已下载的问题",
- "bundle": "wenxian-1.0.21.bundle",
- "sig": "kSB0VMXhA82dJ2tpTPDA+q8jq07x3SJl89CWeZ4uaGEKYCPfU8NWf3MurbfATMQc3ydZZkrYP6dfD1LXc0pTDA==",
- "date": "2026-11-16"
+ "version": "1.0.22",
+ "notes": "找文献：搜完可以接着找更细分的或换方向；外文标题显示中文译名",
+ "bundle": "wenxian-1.0.22.bundle",
+ "sig": "/IDxC8NAl15y3PR5qSjks0dbYVPFV/On76g+H6XkhR2PeYZ29tnFO76s2IEVUaePc92vadckx17ZYqAFcpZ4AA==",
+ "date": "2026-11-17"
 }
